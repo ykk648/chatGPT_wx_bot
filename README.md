@@ -1,4 +1,7 @@
 # chatGPT_wx_bot
+
+chatGPT 微信机器人
+
 chatGPT weixin bot
 
 ```
