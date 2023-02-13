@@ -1,0 +1,3 @@
+PyOfficeRobot
+pywin32
+revChatGPT
